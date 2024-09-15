@@ -53,7 +53,7 @@ YOLOv5-Enhancements/
 
 1. **克隆仓库**：
     ```bash
-    git clone https://github.com/your-username/YOLOv5-Enhancements.git
+    git clone  https://github.com/aixiaobaikkk/YOLOv5-Enhancements.git
     cd YOLOv5-Enhancements
     ```
 
@@ -94,5 +94,5 @@ python detect.py --weights path/to/your/custom/weights.pt --img 640 --conf 0.25 
 
 ## 贡献
 
-欢迎提交您的贡献！如果您有新的模型增强或优化思路，欢迎 Fork 本仓库并提交 Pull Request。遇到任何问题，您可以在 [issues 页面](https://github.com/your-username/YOLOv5-Enhancements/issues) 提交问题。
+欢迎提交您的贡献！如果您有新的模型增强或优化思路，欢迎 Fork 本仓库并提交 Pull Request。遇到任何问题，您可以在 [issues 页面](https://github.com/aixiaobaikkk/YOLOv5-Enhancements/issues) 提交问题。
 
